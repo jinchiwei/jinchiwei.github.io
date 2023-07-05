@@ -2,9 +2,7 @@
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300italic,600italic,300,600");
 
 /*
-	Dimension by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+	dimension theme sourced from html5up.net for free personal use under CCA 3.0 license
 */
 
 html, body, div, span, applet, object,
@@ -190,15 +188,6 @@ input, select, textarea {
 
 		h1.major, h2.major, h3.major, h4.major, h5.major, h6.major {
 			border-bottom: solid 1px #ffffff;
-			width: -moz-max-content;
-			width: -webkit-max-content;
-			width: -ms-max-content;
-			width: max-content;
-			padding-bottom: 0.5rem;
-			margin: 0 0 2rem 0;
-		}
-
-		h1.minor, h2.minor, h3.minor, h4.minor, h5.minor, h6.minor {
 			width: -moz-max-content;
 			width: -webkit-max-content;
 			width: -ms-max-content;
